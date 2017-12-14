@@ -11,5 +11,5 @@ spec:
     spec:
       containers:
       - name: beanstalk
-        image: hub.platformservices.io/techevo/beanstalk:ibbo
+        image: beanstalk:ibbo
 

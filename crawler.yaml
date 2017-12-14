@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: crawler 
-        image: hub.platformservices.io/techevo/crawler:ibbo
+        image: crawler:ibbo
         env:
         - name: DEBUG
           value: "true"
